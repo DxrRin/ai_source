@@ -8,10 +8,3 @@
     <img src="image/aiko_background.webp" width="225"/>
   </a>
 </div>
-
-```bash
-https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_avatar.webp
-https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_avatar.png
-https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_background.webp
-https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_background.png
-```
