@@ -16,5 +16,9 @@
   <a href="https://github.com/DxrRin/ai_source/tree/Erina_Zafira" target="_blank">
     <img src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Erina_Zafira/image/erina_avatar.webp" width="300"/>
   </a>
+
+  <a href="https://github.com/DxrRin/ai_source/tree/Hana_Elqisya" target="_blank">
+    <img src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Hana_Elqisya/image/hana_avatar.webp" width="300"/>
+  </a>
 </div>
 
