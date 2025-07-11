@@ -1,7 +1,7 @@
 <h1 align="center">📷 Gallery</h1>
 
 <div align="center">
-  <a href="https://github.com/DxrRin/ai_source/tree/Aiko_Shirasaki" target="_blank">
+  <a href="https://github.com/DxrRin/ai_source/tree/Aiko_Shirasaki" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_avatar.webp" width="300"/>
   </a>
 
