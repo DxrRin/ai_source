@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Sakumi_Shizune/image/sakumi_avatar.webp" target="_blank">
-    <img src="image/aiko_avatar.webp" width="150"/>
+    <img src="image/sakumi_avatar.webp" width="150"/>
   </a>
-  <a href="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Aiko_Shirasaki/image/aiko_background.webp" target="_blank">
-    <img src="image/aiko_background.webp" width="225"/>
+  <a href="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Sakumi_Shizune/image/sakumi_background.webp" target="_blank">
+    <img src="image/sakumi_background.webp" width="225"/>
   </a>
 </div>
