@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://github.com/DxrRin/ai_source/tree/Elara_Quinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara.webp" width="300"/>
   </a>
 
   <a href="https://github.com/DxrRin/ai_source/tree/Erina_Zafira" target="_blank">
